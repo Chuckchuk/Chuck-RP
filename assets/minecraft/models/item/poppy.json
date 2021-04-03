@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/poppy"},
+  "overrides": [
+    { "predicate": {"custom_model_data": 9001500}, "model": "tac/sawmill/sawmill"},
+    { "predicate": {"custom_model_data": 9001501}, "model": "tac/gui/sawmill"},
+    { "predicate": {"custom_model_data": 9001502}, "model": "tac/gui/full_slot"},
+    { "predicate": {"custom_model_data": 9001503}, "model": "tac/gui/full_slot_stack"},
+    { "predicate": {"custom_model_data": 9001504}, "model": "tac/gui/arrow"},
+      
+      
+    { "predicate": {"custom_model_data": 9002000}, "model": "tac/items/furniture_hammer"}
+  ]
+}

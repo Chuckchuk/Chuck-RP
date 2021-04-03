@@ -1,0 +1,4 @@
+{
+	"parent": "tac/chair/basic/basic",
+	"textures": {"0": "block/warped_planks"}
+}

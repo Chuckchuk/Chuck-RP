@@ -1,0 +1,28 @@
+{
+		"textures": {"0": "gui/container/shulker_box",
+		"particle": "gui/container/shulker_box"
+	},
+	"elements": [{
+			"name": "Middle",
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"south": {"uv": [5, 4.5, 5.5, 5], "texture": "#0"}
+			}},
+		{
+			"name": "Middle",
+			"from": [0, 16, 8],
+			"to": [16, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 24, 8]},
+			"faces": {
+				"south": {"uv": [5, 4.5, 5.5, 5], "texture": "#0"}
+			}}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 0, 63.5],
+			"scale": [1.125, 1.125, 1.125]
+		}
+	}
+}

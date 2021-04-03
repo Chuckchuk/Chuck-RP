@@ -1,0 +1,47 @@
+{
+		"textures": {"0": "block/quartz_block_bottom",
+		"1": "block/quartz_pillar_top",
+		"particle": "block/quartz_pillar_top"
+	},
+	"elements": [{
+			"name": "Surface1",
+			"from": [0, 12, 0],
+			"to": [16, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -10.0565],
+			"scale": [2.003, 2.006, 2.003]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 8, 0],
+			"scale": [1.5, 1.2, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-10, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 90, 0]
+		},
+		"head": {
+			"translation": [0, -31.42, 0],
+			"scale": [2.29, 2.5, 2.29]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

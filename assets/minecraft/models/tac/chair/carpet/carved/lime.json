@@ -1,0 +1,5 @@
+{
+	"parent" : "tac/chair/carpet/normal/cushion",
+	"textures": {"1": "block/lime_wool",
+		"2": "block/lime_shulker_box"}
+}

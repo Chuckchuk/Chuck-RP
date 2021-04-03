@@ -1,0 +1,4 @@
+{
+  "parent": "tac/table/default/basic_2/3",
+	"textures": {"0": "block/birch_planks"}
+}

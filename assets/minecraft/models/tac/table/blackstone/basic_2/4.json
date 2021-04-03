@@ -1,0 +1,4 @@
+{
+  "parent": "tac/table/empty",
+	"textures": {"0": "block/barrier"}
+}

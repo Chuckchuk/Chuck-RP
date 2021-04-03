@@ -1,0 +1,4 @@
+{
+  "parent": "tac/table/default/basic_2/2",
+	"textures": {"0": "block/quartz_pillar_top"}
+}

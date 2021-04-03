@@ -1,0 +1,4 @@
+{
+  "parent": "tac/table/default/basic_1/full",
+	"textures": {"0": "block/obsidian"}
+}
