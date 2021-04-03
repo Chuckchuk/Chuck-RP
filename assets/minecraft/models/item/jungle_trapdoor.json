@@ -5,7 +5,7 @@
         "edge": "block/jungle_trapdoor_edge"
      },
      "overrides": [
-        { "predicate": {"custom_model_data": 9000500}, "model": "tac/"},
+        { "predicate": {"custom_model_data": 9000500}, "model": "tac/chair/basic/oak"},
 
         { "predicate": {"custom_model_data": 9001000}, "model": "tac/chair/basic/oak"},
         { "predicate": {"custom_model_data": 9001001}, "model": "tac/chair/basic/spruce"},
@@ -41,7 +41,6 @@
         { "predicate": {"custom_model_data": 9001107}, "model": "tac/chair/carved/warped"},
         { "predicate": {"custom_model_data": 9001110}, "model": "tac/chair/carved/obsidian"},
         { "predicate": {"custom_model_data": 9001111}, "model": "tac/chair/carved/quartz"},
-        { "predicate": {"custom_model_data": 9001112}, "model": "tac/chair/carved/blackstone"},
 
         { "predicate": {"custom_model_data": 9001200}, "model": "tac/chair/fancy/1/oak"},
         { "predicate": {"custom_model_data": 9001201}, "model": "tac/chair/fancy/1/spruce"},
