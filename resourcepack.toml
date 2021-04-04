@@ -1,0 +1,2 @@
+[resourcepack]
+includes = [ "assets/**", "pack.mcmeta", "pack.png" ]
