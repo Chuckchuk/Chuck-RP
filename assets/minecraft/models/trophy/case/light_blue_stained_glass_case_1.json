@@ -1,0 +1,6 @@
+{
+    "parent": "trophy/case/glass_case_1",
+    "textures": {
+		"3": "block/light_blue_stained_glass"
+    }
+}
