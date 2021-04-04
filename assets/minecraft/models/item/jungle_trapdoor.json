@@ -432,12 +432,25 @@
         { "predicate": {"custom_model_data": 9003214}, "model": "tac/table/empty"},
         { "predicate": {"custom_model_data": 9003219}, "model": "tac/table/blackstone/basic_2/full"},
         
+
+
+
         { "predicate": {"custom_model_data": 9005000}, "model": "tac/items/iron_candelabra"},
         { "predicate": {"custom_model_data": 9005001}, "model": "tac/items/gold_candelabra"},
         { "predicate": {"custom_model_data": 9005002}, "model": "tac/items/diamond_candelabra"},
         { "predicate": {"custom_model_data": 9005003}, "model": "tac/items/netherite_candelabra"},
 
 
+
+
+
+
+
+        { "predicate": {"custom_model_data": 9006100}, "model": "trophy/silverfish"},
+        { "predicate": {"custom_model_data": 9006200}, "model": "trophy/creeper"},
+        { "predicate": {"custom_model_data": 9006300}, "model": "trophy/enderman"},
+    
+        
 
         { "predicate": {"custom_model_data": 9009999}, "model": "tac/chair/basic/oak"}
 	]

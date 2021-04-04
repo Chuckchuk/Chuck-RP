@@ -120,6 +120,11 @@
     "item.tac.table.blackstone.basic": "Basic Blackstone Table",
     "item.tac.table.blackstone.carved": "Carved Blackstone Table",
 
+    "item.trophy.silverfish": "Silverfish Trophy",
+    "item.trophy.creeper": "Creeper Trophy",
+    "item.trophy.enderman": "Enderman Trophy",
+
+    "pack.mob_trophy": "Mob Trophy",
     "pack.tac_chk": "Tables and Chairs"
 }
 
