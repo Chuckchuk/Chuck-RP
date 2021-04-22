@@ -84,6 +84,8 @@
     "item.tac.chair.diamond.throne": "Diamond Throne",
     "item.tac.chair.netherite.throne": "Netherite Throne",
 
+    "item.tac.chair.carved_description.1": "Carved Variants are ",
+    "item.tac.chair.carved_description.2": "Unique to Each Material",
 
 
 
@@ -119,6 +121,10 @@
 
     "item.tac.table.blackstone.basic": "Basic Blackstone Table",
     "item.tac.table.blackstone.carved": "Carved Blackstone Table",
+
+    "item.tac.table.carved_description.1": "Carved Variants are ",
+    "item.tac.table.carved_description.2": "Unique to Each Material",
+    
 
     "item.trophy.silverfish": "Silverfish Trophy",
     "item.trophy.creeper": "Creeper Trophy",
