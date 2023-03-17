@@ -7,7 +7,7 @@
 		"4": "block/spruce_trapdoor",
 		"6": "block/tnt_top",
 		"7": "mob_trophy/creeper_skeleton",
-		"particle": "mob_trophy/creeper_trophy_skeleton"
+		"particle": "block/spruce_trapdoor"
 	},
 	"elements": [
 		{

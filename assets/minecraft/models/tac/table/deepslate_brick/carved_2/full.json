@@ -1,0 +1,4 @@
+{
+  "parent": "tac/table/stone_brick/carved_2/full",
+	"textures": {"0": "block/deepslate_bricks"}
+}

@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/mangrove_planks"
+	},
+	"elements": [
+		{
+			"name": "Decoration.1",
+			"from": [0, 11, 7],
+			"to": [16, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 14, 16, 16], "texture": "#0"},
+				"east": {"uv": [4, 6, 6, 8], "texture": "#0"},
+				"south": {"uv": [0, 14, 16, 16], "texture": "#0"},
+				"west": {"uv": [6, 6, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 12, 16, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.001, 1.001, 1.001]
+		}
+	}
+}

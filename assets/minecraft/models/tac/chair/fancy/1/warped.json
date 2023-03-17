@@ -1,4 +1,7 @@
 {
 	"parent": "tac/chair/fancy/1/chair",
-	"textures": {"0": "block/warped_planks"}
+	"textures": {
+    "0": "block/warped_planks",
+    "1": "block/stripped_warped_stem"
+  }
 }

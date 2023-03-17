@@ -1,5 +1,0 @@
-{
-    "parent" : "tac/chair/wool/t_wool",
-    "textures": {"1": "block/green_wool",
-		"particle": "block/green_wool"}
-}

@@ -1,0 +1,10 @@
+{
+	"parent": "bab/clocks/grand/oak/top",
+	"textures": {
+		"0": "block/spruce_planks",
+		"2": "block/stripped_spruce_log",
+		"3": "block/spruce_log_top",
+		"4": "block/bone_block_top",
+		"particle": "block/glass"
+	}
+}

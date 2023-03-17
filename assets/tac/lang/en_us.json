@@ -58,6 +58,27 @@
     "item.tac.chair.warped.fancy.2": "Intricate Warped Armchair",
     "item.tac.chair.warped.throne": "Warped Throne",
 
+    "item.tac.chair.mangrove.basic": "Mangrove Chair",
+    "item.tac.chair.mangrove.simple": "Simple Mangrove Chair",
+    "item.tac.chair.mangrove.carved": "Carved Mangrove Chair",
+    "item.tac.chair.mangrove.fancy.1": "Mangrove Armchair",
+    "item.tac.chair.mangrove.fancy.2": "Intricate Mangrove Armchair",
+    "item.tac.chair.mangrove.throne": "Mangrove Throne",
+
+    "item.tac.chair.cherry.basic": "Cherry Chair",
+    "item.tac.chair.cherry.simple": "Simple Cherry Chair",
+    "item.tac.chair.cherry.carved": "Carved Cherry Chair",
+    "item.tac.chair.cherry.fancy.1": "Cherry Armchair",
+    "item.tac.chair.cherry.fancy.2": "Intricate Cherry Armchair",
+    "item.tac.chair.cherry.throne": "Cherry Throne",
+
+    "item.tac.chair.bamboo.basic": "Bamboo Chair",
+    "item.tac.chair.bamboo.simple": "Simple Bamboo Chair",
+    "item.tac.chair.bamboo.carved": "Carved Bamboo Chair",
+    "item.tac.chair.bamboo.fancy.1": "Bamboo Armchair",
+    "item.tac.chair.bamboo.fancy.2": "Intricate Bamboo Armchair",
+    "item.tac.chair.bamboo.throne": "Bamboo Throne",
+
     "item.tac.chair.obsidian.basic": "Obsidian Chair",
     "item.tac.chair.obsidian.simple": "Simple Obsidian Chair",
     "item.tac.chair.obsidian.carved": "Carved Obsidian Chair",
@@ -78,6 +99,34 @@
     "item.tac.chair.blackstone.fancy.1": "Blackstone Armchair",
     "item.tac.chair.blackstone.fancy.2": "Intricate Blackstone Armchair",
     "item.tac.chair.blackstone.throne": "Blackstone Throne",
+
+    "item.tac.chair.stone_brick.basic": "Stone Brick Chair",
+    "item.tac.chair.stone_brick.simple": "Simple Stone Brick Chair",
+    "item.tac.chair.stone_brick.carved": "Carved Stone Brick Chair",
+    "item.tac.chair.stone_brick.fancy.1": "Stone Brick Armchair",
+    "item.tac.chair.stone_brick.fancy.2": "Intricate Stone Brick Armchair",
+    "item.tac.chair.stone_brick.throne": "Stone Brick Throne",
+
+    "item.tac.chair.deepslate_brick.basic": "Deepslate Brick Chair",
+    "item.tac.chair.deepslate_brick.simple": "Simple Deepslate Brick Chair",
+    "item.tac.chair.deepslate_brick.carved": "Carved Deepslate Brick Chair",
+    "item.tac.chair.deepslate_brick.fancy.1": "Deepslate Brick Armchair",
+    "item.tac.chair.deepslate_brick.fancy.2": "Intricate Deepslate Brick Armchair",
+    "item.tac.chair.deepslate_brick.throne": "Deepslate Brick Throne",
+
+    "item.tac.chair.blackstone_brick.basic": "Blackstone Brick Chair",
+    "item.tac.chair.blackstone_brick.simple": "Simple Blackstone Brick Chair",
+    "item.tac.chair.blackstone_brick.carved": "Carved Blackstone Brick Chair",
+    "item.tac.chair.blackstone_brick.fancy.1": "Blackstone Brick Armchair",
+    "item.tac.chair.blackstone_brick.fancy.2": "Intricate Blackstone Brick Armchair",
+    "item.tac.chair.blackstone_brick.throne": "Blackstone Brick Throne",
+    
+    "item.tac.chair.endstone_brick.basic": "End Stone Brick Chair",
+    "item.tac.chair.endstone_brick.simple": "Simple End Stone Brick Chair",
+    "item.tac.chair.endstone_brick.carved": "Carved End Stone Brick Chair",
+    "item.tac.chair.endstone_brick.fancy.1": "End Stone Brick Armchair",
+    "item.tac.chair.endstone_brick.fancy.2": "Intricate End Stone Brick Armchair",
+    "item.tac.chair.endstone_brick.throne": "End Stone Brick Throne",
 
     "item.tac.chair.iron.throne": "Iron Throne",
     "item.tac.chair.gold.throne": "Golden Throne",
@@ -113,6 +162,15 @@
     "item.tac.table.warped.basic": "Basic Warped Table",
     "item.tac.table.warped.carved": "Carved Warped Table",
 
+    "item.tac.table.mangrove.basic": "Basic Mangrove Table",
+    "item.tac.table.mangrove.carved": "Carved Mangrove Table",
+
+    "item.tac.table.cherry.basic": "Basic Cherry Table",
+    "item.tac.table.cherry.carved": "Carved Cherry Table",
+
+    "item.tac.table.bamboo.basic": "Basic Bamboo Table",
+    "item.tac.table.bamboo.carved": "Carved Bamboo Table",
+
     "item.tac.table.obsidian.basic": "Basic Obsidian Table",
     "item.tac.table.obsidian.carved": "Carved Obsidian Table",
     
@@ -121,6 +179,20 @@
 
     "item.tac.table.blackstone.basic": "Basic Blackstone Table",
     "item.tac.table.blackstone.carved": "Carved Blackstone Table",
+
+    "item.tac.table.stone_brick.basic": "Basic Stone Brick Table",
+    "item.tac.table.stone_brick.carved": "Carved Stone Brick Table",
+
+    "item.tac.table.deepslate_brick.basic": "Basic Deepslate Brick Table",
+    "item.tac.table.deepslate_brick.carved": "Carved Deepslate Brick Table",
+    
+    "item.tac.table.blackstone_brick.basic": "Basic Blackstone Brick Table",
+    "item.tac.table.blackstone_brick.carved": "Carved Blackstone Brick Table",
+
+    "item.tac.table.endstone_brick.basic": "Basic End Stone Brick Table",
+    "item.tac.table.endstone_brick.carved": "Carved End Stone Brick Table",
+
+
 
     "item.tac.table.carved_description.1": "Carved Variants are ",
     "item.tac.table.carved_description.2": "Unique to Each Material",

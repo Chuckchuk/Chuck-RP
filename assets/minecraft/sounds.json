@@ -1,0 +1,41 @@
+{
+  "chime.2.low": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "chime_2/chime_c",
+      "chime_2/chime_d",
+      "chime_2/chime_f",
+      "chime_2/chime_g",
+      "chime_2/chime_a"
+    ]
+  },
+  "chime.2.high": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "chime_2/chime_c2",
+      "chime_2/chime_d2",
+      "chime_2/chime_f2",
+      "chime_2/chime_g2",
+      "chime_2/chime_a2"
+    ]
+  },
+  "chime.2.all": {
+    "category": "block",
+    "replace": true,
+    "sounds": [
+      "chime_2/chime_c",
+      "chime_2/chime_d",
+      "chime_2/chime_f",
+      "chime_2/chime_g",
+      "chime_2/chime_a",
+      "chime_2/chime_c2",
+      "chime_2/chime_d2",
+      "chime_2/chime_f2",
+      "chime_2/chime_g2",
+      "chime_2/chime_a2"
+    ]
+  }
+
+}

@@ -1,4 +1,7 @@
 {
 	"parent": "tac/chair/fancy/1/chair",
-	"textures": {"0": "block/polished_blackstone"}
+	"textures": {
+    "0": "block/polished_blackstone",
+    "1": "block/polished_blackstone"
+}
 }

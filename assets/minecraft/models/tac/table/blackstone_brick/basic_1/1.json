@@ -1,0 +1,4 @@
+{
+  "parent": "tac/table/stone_brick/basic_1/1",
+	"textures": {"0": "block/polished_blackstone_bricks"}
+}
