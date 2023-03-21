@@ -1,5 +1,5 @@
 {
-	"parent": "bab/clocks/grand/oak/top",
+	"parent": "clocks/grand/default/full",
 	"textures": {
 		"0": "block/acacia_planks",
 		"2": "block/stripped_acacia_log",

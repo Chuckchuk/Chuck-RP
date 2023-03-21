@@ -1,29 +1,26 @@
 {
-    "sources": [
-        {
-            "type": "directory",
-            "source": "block",
-            "prefix": "block/"
-        },
-        {
-            "type": "directory",
-            "source": "item",
-            "prefix": "item/"
-        },
-        {
-          "type": "directory",
-          "source": "entity",
-          "prefix": "entity/"
-        },
-        {
-          "type": "directory",
-          "source": "mob_trophy",
-          "prefix": "mob_trophy/"
-        },
-        {
-          "type": "directory",
-          "source": "gui",
-          "prefix": "gui/"
-        }
-    ]
+  "sources": [
+    { "type": "directory",
+      "source": "gui/container",
+      "prefix": "gui/container/"
+    },
+    {
+      "type": "directory",
+      "source": "mob_trophy",
+      "prefix": "mob_trophy/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+      "type": "single",
+      "resource": "gui/container/shulker_box"
+    },
+    {
+      "type": "single",
+      "resource": "gui/resource_packs"
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
-	"parent": "bab/clocks/grand/oak/bot",
+	"parent": "clocks/grand/default/full",
 	"textures": {
 		"0": "block/warped_planks",
-		"1": "block/warped_wart_block",
 		"2": "block/stripped_warped_stem",
-		"3": "block/glass",
+		"3": "block/warped_wart_block",
+		"4": "block/bone_block_top",
 		"particle": "block/glass"
 	}
 }
