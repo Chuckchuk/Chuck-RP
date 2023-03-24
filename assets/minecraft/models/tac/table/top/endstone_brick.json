@@ -1,4 +1,4 @@
 {
-    "parent": "tac/table/top/table_top",
+    "parent": "tac/table/top/stone_brick",
 	"textures": {"0": "block/end_stone_bricks"}
 }
