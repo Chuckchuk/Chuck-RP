@@ -46,7 +46,6 @@
         { "predicate": {"custom_model_data": 9001091}, "model": "tac/chair/simple/quartz"},
         { "predicate": {"custom_model_data": 9001092}, "model": "tac/chair/simple/blackstone"},
 
-
         { "predicate": {"custom_model_data": 9001100}, "model": "tac/chair/carved/oak"},
         { "predicate": {"custom_model_data": 9001101}, "model": "tac/chair/carved/spruce"},
         { "predicate": {"custom_model_data": 9001102}, "model": "tac/chair/carved/birch"},
@@ -65,7 +64,6 @@
         { "predicate": {"custom_model_data": 9001140}, "model": "tac/chair/carved/obsidian"},
         { "predicate": {"custom_model_data": 9001141}, "model": "tac/chair/carved/quartz"},
         { "predicate": {"custom_model_data": 9001142}, "model": "tac/chair/carved/blackstone"},
-
 
         { "predicate": {"custom_model_data": 9001200}, "model": "tac/chair/fancy/1/oak"},
         { "predicate": {"custom_model_data": 9001201}, "model": "tac/chair/fancy/1/spruce"},
@@ -124,12 +122,10 @@
 
 
 
-
-
-
         { "predicate": {"custom_model_data": 9001500}, "model": "tac/sawmill/sawmill_old"},
-        { "predicate": {"custom_model_data": 9001501}, "model": "tac/sawmill/sawmill"},
-        
+        { "predicate": {"custom_model_data": 9001501}, "model": "tac/sawmill/sawmill"},        
+
+
 
         { "predicate": {"custom_model_data": 9001600}, "model": "tac/table/carpet/white"},
         { "predicate": {"custom_model_data": 9001601}, "model": "tac/table/carpet/orange"},
@@ -232,11 +228,23 @@
         { "predicate": {"custom_model_data": 9001733}, "model": "tac/chair/carpet/throne_2/green"},
         { "predicate": {"custom_model_data": 9001734}, "model": "tac/chair/carpet/throne_2/red"},
         { "predicate": {"custom_model_data": 9001735}, "model": "tac/chair/carpet/throne_2/black"},
-        
 
-
-
-
+        { "predicate": {"custom_model_data": 9001800}, "model": "tac/bench/carpet/basic/1/white"},
+        { "predicate": {"custom_model_data": 9001801}, "model": "tac/bench/carpet/basic/1/orange"},
+        { "predicate": {"custom_model_data": 9001802}, "model": "tac/bench/carpet/basic/1/magenta"},
+        { "predicate": {"custom_model_data": 9001803}, "model": "tac/bench/carpet/basic/1/light_blue"},
+        { "predicate": {"custom_model_data": 9001804}, "model": "tac/bench/carpet/basic/1/yellow"},
+        { "predicate": {"custom_model_data": 9001805}, "model": "tac/bench/carpet/basic/1/lime"},
+        { "predicate": {"custom_model_data": 9001806}, "model": "tac/bench/carpet/basic/1/pink"},
+        { "predicate": {"custom_model_data": 9001807}, "model": "tac/bench/carpet/basic/1/gray"},
+        { "predicate": {"custom_model_data": 9001808}, "model": "tac/bench/carpet/basic/1/light_gray"},
+        { "predicate": {"custom_model_data": 9001809}, "model": "tac/bench/carpet/basic/1/cyan"},
+        { "predicate": {"custom_model_data": 9001810}, "model": "tac/bench/carpet/basic/1/purple"},
+        { "predicate": {"custom_model_data": 9001811}, "model": "tac/bench/carpet/basic/1/blue"},
+        { "predicate": {"custom_model_data": 9001812}, "model": "tac/bench/carpet/basic/1/brown"},
+        { "predicate": {"custom_model_data": 9001813}, "model": "tac/bench/carpet/basic/1/green"},
+        { "predicate": {"custom_model_data": 9001814}, "model": "tac/bench/carpet/basic/1/red"},
+        { "predicate": {"custom_model_data": 9001815}, "model": "tac/bench/carpet/basic/1/black"},
 
         
         { "predicate": {"custom_model_data": 9002000}, "model": "tac/table/top/oak"},
@@ -483,7 +491,6 @@
         { "predicate": {"custom_model_data": 9003039}, "model": "tac/table/bamboo/carved_2/full"},
 
 
-
         { "predicate": {"custom_model_data": 9004000}, "model": "tac/table/top/stone_brick"},
         { "predicate": {"custom_model_data": 9004001}, "model": "tac/table/stone_brick/basic_1/1"},
         { "predicate": {"custom_model_data": 9004002}, "model": "tac/table/stone_brick/basic_1/2"},
@@ -572,6 +579,7 @@
         { "predicate": {"custom_model_data": 9004334}, "model": "tac/table/endstone_brick/carved_2/empty"},
         { "predicate": {"custom_model_data": 9004339}, "model": "tac/table/endstone_brick/carved_2/full"},
 
+
         { "predicate": {"custom_model_data": 9005000}, "model": "tac/table/top/obsidian"},
         { "predicate": {"custom_model_data": 9005001}, "model": "tac/table/obsidian/basic_1/1"},
         { "predicate": {"custom_model_data": 9005002}, "model": "tac/table/obsidian/basic_1/2"},
@@ -631,8 +639,6 @@
         { "predicate": {"custom_model_data": 9005214}, "model": "tac/table/empty"},
         { "predicate": {"custom_model_data": 9005219}, "model": "tac/table/blackstone/basic_2/full"},
 
-
-
         { "predicate": {"custom_model_data": 9006000}, "model": "tac/items/iron_candelabra"},
         { "predicate": {"custom_model_data": 9006001}, "model": "tac/items/gold_candelabra"},
         { "predicate": {"custom_model_data": 9006002}, "model": "tac/items/diamond_candelabra"},
@@ -643,15 +649,18 @@
         { "predicate": {"custom_model_data": 9006021}, "model": "tac/items/inkquill"},
         { "predicate": {"custom_model_data": 9006022}, "model": "tac/items/paper"},
 
-
-
-
-
-
-
         { "predicate": {"custom_model_data": 9006100}, "model": "trophy/silverfish"},
         { "predicate": {"custom_model_data": 9006200}, "model": "trophy/creeper"},
         { "predicate": {"custom_model_data": 9006300}, "model": "trophy/enderman"},
+
+        { "predicate": {"custom_model_data": 9006500}, "model": "tac/bench/basic/oak/0"},
+       
+        { "predicate": {"custom_model_data": 9006505}, "model": "tac/bench/basic/spruce/0"},
+
+        { "predicate": {"custom_model_data": 9006510}, "model": "tac/bench/basic/birch/0"},
+
+
+
 
         
 
@@ -675,6 +684,19 @@
         { "predicate": {"custom_model_data": 9008902}, "model": "clocks/hands/hour"},
         { "predicate": {"custom_model_data": 9008903}, "model": "clocks/hands/pendulum"},
         
-        { "predicate": {"custom_model_data": 9009999}, "model": "tac/chair/basic/oak"}
+        { "predicate": {"custom_model_data": 9009999}, "model": "tac/chair/basic/oak"},
+
+        { "predicate": {"custom_model_data": 9016500}, "model": "tac/bench/basic/oak/l"},
+        { "predicate": {"custom_model_data": 9016501}, "model": "tac/bench/basic/oak/r"},
+        { "predicate": {"custom_model_data": 9016502}, "model": "tac/bench/basic/oak/c1"},
+        { "predicate": {"custom_model_data": 9016503}, "model": "tac/bench/basic/oak/c2"},
+        { "predicate": {"custom_model_data": 9016504}, "model": "tac/bench/basic/oak/m"},
+        { "predicate": {"custom_model_data": 9016504}, "model": "tac/bench/basic/oak/m"},
+
+
+        { "predicate": {"custom_model_data": 9019999}, "model": "tac/chair/basic/oak"}
+
+
+
 	]
 }
