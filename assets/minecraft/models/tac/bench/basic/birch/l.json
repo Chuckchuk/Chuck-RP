@@ -1,0 +1,7 @@
+{
+	"parent" : "tac/bench/basic/oak/l",
+	"textures": {
+    "0": "block/birch_planks",
+		"1": "block/stripped_birch_log"
+  }
+}

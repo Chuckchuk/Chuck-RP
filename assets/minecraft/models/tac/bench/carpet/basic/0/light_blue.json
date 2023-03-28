@@ -1,0 +1,4 @@
+{
+	"parent" : "tac/bench/carpet/basic/0/cushion",
+	"textures": {"0": "block/light_blue_wool"}
+}
