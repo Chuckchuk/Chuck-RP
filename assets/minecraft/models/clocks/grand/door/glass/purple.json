@@ -1,0 +1,6 @@
+{
+	"parent": "clocks/grand/door/glass/glass",
+	"textures": {
+		"glass": "block/purple_stained_glass"
+	}
+}

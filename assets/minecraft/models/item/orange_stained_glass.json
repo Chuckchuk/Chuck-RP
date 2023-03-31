@@ -54,6 +54,29 @@
     { "predicate": {"custom_model_data": 9007313}, "model": "trophy/case/brown_stained_glass_case_3"},
     { "predicate": {"custom_model_data": 9007314}, "model": "trophy/case/green_stained_glass_case_3"},
     { "predicate": {"custom_model_data": 9007315}, "model": "trophy/case/red_stained_glass_case_3"},
-    { "predicate": {"custom_model_data": 9007316}, "model": "trophy/case/black_stained_glass_case_3"}
+    { "predicate": {"custom_model_data": 9007316}, "model": "trophy/case/black_stained_glass_case_3"},
+
+
+
+
+    { "predicate": {"custom_model_data": 9008080}, "model": "clocks/grand/door/glass/glass"},
+    { "predicate": {"custom_model_data": 9008081}, "model": "clocks/grand/door/glass/white"},
+    { "predicate": {"custom_model_data": 9008082}, "model": "clocks/grand/door/glass/light_gray"},
+    { "predicate": {"custom_model_data": 9008083}, "model": "clocks/grand/door/glass/gray"},
+    { "predicate": {"custom_model_data": 9008084}, "model": "clocks/grand/door/glass/black"},
+    { "predicate": {"custom_model_data": 9008085}, "model": "clocks/grand/door/glass/brown"},
+    { "predicate": {"custom_model_data": 9008086}, "model": "clocks/grand/door/glass/red"},
+    { "predicate": {"custom_model_data": 9008087}, "model": "clocks/grand/door/glass/orange"},
+    { "predicate": {"custom_model_data": 9008088}, "model": "clocks/grand/door/glass/yellow"},
+    { "predicate": {"custom_model_data": 9008089}, "model": "clocks/grand/door/glass/lime"},
+    { "predicate": {"custom_model_data": 9008090}, "model": "clocks/grand/door/glass/green"},
+    { "predicate": {"custom_model_data": 9008091}, "model": "clocks/grand/door/glass/cyan"},
+    { "predicate": {"custom_model_data": 9008092}, "model": "clocks/grand/door/glass/light_blue"},
+    { "predicate": {"custom_model_data": 9008093}, "model": "clocks/grand/door/glass/blue"},
+    { "predicate": {"custom_model_data": 9008094}, "model": "clocks/grand/door/glass/purple"},
+    { "predicate": {"custom_model_data": 9008095}, "model": "clocks/grand/door/glass/magenta"},
+    { "predicate": {"custom_model_data": 9008096}, "model": "clocks/grand/door/glass/pink"},
+    { "predicate": {"custom_model_data": 9008097}, "model": "clocks/grand/door/glass/tinted"}
+
   ]
 }

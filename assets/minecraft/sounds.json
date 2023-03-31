@@ -36,6 +36,34 @@
       "chime_2/chime_g2",
       "chime_2/chime_a2"
     ]
+  },
+  "chime.3.1": {
+    "category": "block",
+    "replace": false,
+    "sounds": [
+      "chime_3/1"
+    ]
+  },
+  "chime.3.2": {
+    "category": "block",
+    "replace": false,
+    "sounds": [
+      "chime_3/2"
+    ]
+  },
+  "chime.3.3": {
+    "category": "block",
+    "replace": false,
+    "sounds": [
+      "chime_3/3"
+    ]
+  },
+  "chime.3.4": {
+    "category": "block",
+    "replace": false,
+    "sounds": [
+      "chime_3/4"
+    ]
   }
 
 }
