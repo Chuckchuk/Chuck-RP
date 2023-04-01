@@ -1,6 +1,6 @@
 {
   "chime.2.low": {
-    "category": "block",
+    "category": "ambient",
     "replace": true,
     "sounds": [
       "chime_2/chime_c",
@@ -11,7 +11,7 @@
     ]
   },
   "chime.2.high": {
-    "category": "block",
+    "category": "ambient",
     "replace": true,
     "sounds": [
       "chime_2/chime_c2",
@@ -22,7 +22,7 @@
     ]
   },
   "chime.2.all": {
-    "category": "block",
+    "category": "ambient",
     "replace": true,
     "sounds": [
       "chime_2/chime_c",
@@ -38,31 +38,52 @@
     ]
   },
   "chime.3.1": {
-    "category": "block",
+    "category": "ambient",
     "replace": false,
     "sounds": [
       "chime_3/1"
     ]
   },
   "chime.3.2": {
-    "category": "block",
+    "category": "ambient",
     "replace": false,
     "sounds": [
       "chime_3/2"
     ]
   },
   "chime.3.3": {
-    "category": "block",
+    "category": "ambient",
     "replace": false,
     "sounds": [
       "chime_3/3"
     ]
   },
   "chime.3.4": {
-    "category": "block",
+    "category": "ambient",
     "replace": false,
     "sounds": [
       "chime_3/4"
+    ]
+  },
+  "chime.3.tic": {
+    "category": "ambient",
+    "replace": false,
+    "sounds": [
+      "chime_3/soft_tic"
+    ]
+  },
+  "chime.3.toc": {
+    "category": "ambient",
+    "replace": false,
+    "sounds": [
+      "chime_3/soft_toc"
+    ]
+  },
+  "chime.3.mini": {
+    "category": "ambient",
+    "replace": false,
+    "sounds": [
+      "chime_3/mini"
     ]
   }
 
