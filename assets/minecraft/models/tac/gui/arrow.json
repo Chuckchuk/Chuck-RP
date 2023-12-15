@@ -1,14 +1,17 @@
 {
-		"textures": {"0": "gui/resource_packs",
-		"particle": "gui/resource_packs"
+	"textures": {
+		"0": "gui/sprites/world_list/join",
+		"particle": "gui/sprites/world_list/join"
 	},
-	"elements": [{
+	"elements": [
+		{
 			"name": "Middle",
 			"from": [0, 0, 8],
 			"to": [16, 16, 8],
 			"faces": {
-				"south": {"uv": [0.313, 0.3125, 1.688, 1.6875], "texture": "#0"}
-			}}
+				"south": {"uv": [3, 2.5, 14, 13.5], "texture": "#0"}
+			}
+		}
 	],
 	"gui_light": "front",
 	"display": {
