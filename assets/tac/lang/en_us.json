@@ -153,8 +153,8 @@
     "item.tac.table.acacia.basic": "Basic Acacia Table",
     "item.tac.table.acacia.carved": "Carved Acacia Table",
     
-    "item.tac.table.dark_oak.basic": "Basic Dark oak Table",
-    "item.tac.table.dark_oak.carved": "Carved Dark oak Table",
+    "item.tac.table.dark_oak.basic": "Basic Dark Oak Table",
+    "item.tac.table.dark_oak.carved": "Carved Dark Oak Table",
 
     "item.tac.table.crimson.basic": "Basic Crimson Table",
     "item.tac.table.crimson.carved": "Carved Crimson Table",
@@ -191,6 +191,44 @@
 
     "item.tac.table.endstone_brick.basic": "Basic End Stone Brick Table",
     "item.tac.table.endstone_brick.carved": "Carved End Stone Brick Table",
+
+
+
+    "item.tac.bench.oak.basic": "Oak Bench",
+
+    "item.tac.bench.spruce.basic": "Spruce Bench",
+
+    "item.tac.bench.birch.basic": "Birch Bench",
+
+    "item.tac.bench.jungle.basic": "Jungle Bench",
+
+    "item.tac.bench.acacia.basic": "Acacia Bench",
+    
+    "item.tac.bench.dark_oak.basic": "Dark Oak Bench",
+
+    "item.tac.bench.crimson.basic": "Crimson Bench",
+
+    "item.tac.bench.warped.basic": "Warped Bench",
+
+    "item.tac.bench.mangrove.basic": "Mangrove Bench",
+
+    "item.tac.bench.cherry.basic": "Cherry Bench",
+
+    "item.tac.bench.bamboo.basic": "Bamboo Bench",
+
+    "item.tac.bench.obsidian.basic": "Obsidian Bench",
+    
+    "item.tac.bench.quartz.basic": "Quartz Bench",
+
+    "item.tac.bench.blackstone.basic": "Blackstone Bench",
+
+    "item.tac.bench.stone_brick.basic": "Stone Brick Bench",
+
+    "item.tac.bench.deepslate_brick.basic": "Deepslate Brick Bench",
+    
+    "item.tac.bench.blackstone_brick.basic": "Blackstone Brick Bench",
+
+    "item.tac.bench.endstone_brick.basic": "End Stone Brick Bench",
 
 
 
